@@ -1,0 +1,8 @@
+by\itclass\Main.class
+by\itclass\book\BookRepository.class
+by\itclass\book\BookController.class
+by\itclass\book\BookIntLibrary.class
+by\itclass\book\Book.class
+by\itclass\library\LibraryController.class
+by\itclass\library\Library.class
+by\itclass\library\LibraryRepository.class
