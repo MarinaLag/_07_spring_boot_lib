@@ -2,7 +2,7 @@ E:\_07_spring_boot_lib\src\main\java\by\itclass\book\Book.java
 E:\_07_spring_boot_lib\src\main\java\by\itclass\book\BookRepository.java
 E:\_07_spring_boot_lib\src\main\java\by\itclass\library\LibraryController.java
 E:\_07_spring_boot_lib\src\main\java\by\itclass\Main.java
-E:\_07_spring_boot_lib\src\main\java\by\itclass\bookIntLibrary\BookIntLibrary.java
+E:\_07_spring_boot_lib\src\main\java\by\itclass\book\BookIntLibrary.java
 E:\_07_spring_boot_lib\src\main\java\by\itclass\library\Library.java
 E:\_07_spring_boot_lib\src\main\java\by\itclass\library\LibraryRepository.java
 E:\_07_spring_boot_lib\src\main\java\by\itclass\book\BookController.java
